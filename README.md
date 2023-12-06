@@ -9,6 +9,8 @@ Object-Oriented Programming and Java: Solid foundations in object-oriented progr
 Spring Boot & Hibernate: Ability to develop advanced applications using Spring Boot and Hibernate, with special attention to security and performance.
 CSS & HTML: Practical experience in crafting attractive user interfaces, focusing on responsiveness and accessibility.
 React: Knowledgeable in React and modern JavaScript, enabling me to build interactive and modern front-ends for applications.
+
+
 📈 Growth and Vision:
 My goal is to continuously improve my skills and adapt to the rapidly changing world of technology. I am fascinated by the possibilities of AI, machine learning, and I aspire to integrate these technologies into my future projects.
 
