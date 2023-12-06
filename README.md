@@ -1,4 +1,5 @@
 👋 Welcome to My Profile!
+
 🌟 About Me: As a recent graduate from a codecool fullstack bootcamp, I possess a solid foundation and practical experience in developing dynamic and responsive web applications. My journey into the world of programming began with a passion for technology and a desire to create innovative solutions.
 
 🛠️ Technical Skills:
